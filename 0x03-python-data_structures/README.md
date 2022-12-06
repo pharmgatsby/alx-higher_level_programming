@@ -1,1 +1,1 @@
-In this project, I learned about sets and dictionaries in Python. I practiced using them with the lambda, map, filter, and reduce methods.
+Project done during Full Stack Software Engineering studies. It aims to learn about lists, tuples and strings in Python.
