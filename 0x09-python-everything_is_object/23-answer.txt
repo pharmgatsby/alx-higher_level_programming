@@ -1,3 +1,0 @@
-Yes
-cat > 24-answer.txt
-True
